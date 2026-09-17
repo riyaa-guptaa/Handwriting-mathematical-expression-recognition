@@ -32,3 +32,21 @@ HMER/
 ├── ...
 ├── README.md
 └── ...
+## ⚙️ How to Run
+
+1. Clone the repository.
+2. Install the required Python libraries.
+3. Run the main Python file.
+4. Provide a handwritten mathematical expression as input.
+5. The system processes the image and predicts the expression.
+
+## 🎯 Objective
+
+The main objective of this project is to develop an AI-based system capable of recognizing handwritten mathematical expressions and converting them into a machine-readable format.
+
+## 👩‍💻 Author
+
+**Riya Gupta**
+
+B.Tech – Electronics and Communication Engineering  
+Roorkee Institute of Technology
