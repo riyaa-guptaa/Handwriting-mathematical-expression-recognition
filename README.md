@@ -6,22 +6,34 @@ Handwritten Mathematical Expression Recognition is an AI-based project that reco
 
 The project uses image processing and machine learning techniques to analyze handwritten mathematical symbols and expressions.
 
+## 🔄 Project Workflow
+
+The system follows these main steps:
+
+ **Input:** A handwritten mathematical expression is provided as an image.
+ **Preprocessing:** The input image is cleaned and prepared for recognition.
+ **Feature Extraction:** A CNN-based encoder extracts important visual features from the image.
+ **Sequence Recognition:** The extracted features are processed to identify the sequence of mathematical symbols.
+ **Decoding:** The recognized sequence is converted into a digital mathematical expression.
+ **Output:** The final recognized mathematical expression is displayed as digital text.
+
+
 ## 🚀 Features
 
-- Recognizes handwritten mathematical expressions
-- Processes input images
-- Uses AI/ML techniques for recognition
-- Converts handwritten mathematical content into a digital representation
-- Python-based implementation
+-Recognizes handwritten mathematical expressions
+-Processes input images
+-Uses AI/ML techniques for recognition
+-Converts handwritten mathematical content into a digital representation
+-Python-based implementation
 
 ## 🛠️ Technologies Used
 
-- Python
-- Machine Learning
-- Image Processing
-- NumPy
-- TensorFlow / Keras
-- OpenCV
+-Python
+-Machine Learning
+-Image Processing
+-NumPy
+-TensorFlow / Keras
+-OpenCV
 
 ## 📂 Project Structure
 
