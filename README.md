@@ -36,6 +36,52 @@ Decoder
      ↓
 Recognized Mathematical Expression
 
+## ⚙️ Installation
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/riyaa-guptaa/Handwriting-mathematical-expression-recognition.git
+
+### 2. Open the Project Folder
+
+```bash
+cd Handwriting-mathematical-expression-recognition
+
+### 3. Install Required Libraries
+
+Install the required Python libraries using:
+
+```bash
+pip install numpy tensorflow opencv-python
+
+### 4. Run the Project
+
+```bash
+python app.py
+
+## 📁 Project Structure
+
+```text
+Handwriting-mathematical-expression-recognition/
+│
+├── app.py
+├── algorithm.py
+├── config.py
+├── decoder.py
+├── expression_model.py
+├── HMER_model.py
+├── cnn_encoder.py
+├── image_processor.py
+├── sequence_model.py
+│
+├── dataset/
+│
+├── models/
+│
+├── README.md
+└── .gitignore
+
 ## 🚀 Features
 
 -Recognizes handwritten mathematical expressions
@@ -74,6 +120,26 @@ HMER/
 
 The main objective of this project is to develop an AI-based system capable of recognizing handwritten mathematical expressions and converting them into a machine-readable format.
 
+## 🌟 Project Highlights
+
+- Developed a deep learning-based system for handwritten mathematical expression recognition.
+- Designed a pipeline for image preprocessing, feature extraction, sequence modeling, and decoding.
+- Focused on recognizing mathematical symbols from handwritten input.
+- Built the project using Python and deep learning techniques.
+- Demonstrates the application of AI and image processing in mathematical expression recognition.
+
+## 📚 Learning Outcomes
+
+Through this project, I gained practical experience in:
+
+- Python programming
+- Image processing
+- Machine learning and deep learning
+- CNN-based feature extraction
+- Sequence modeling
+- Working with handwritten image data
+- Building an AI-based recognition system
+
 ## 👩‍💻 Author
 
 **Riya Gupta**
@@ -89,3 +155,10 @@ Roorkee Institute of Technology
 - Improve recognition of fractions, superscripts, and subscripts.
 - Convert recognized expressions into LaTeX format.
 - Develop a more user-friendly interface.
+
+---
+
+## 📄 License
+
+This project is developed for educational and academic purposes.
+
