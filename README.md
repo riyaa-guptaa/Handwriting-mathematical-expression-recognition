@@ -17,6 +17,25 @@ The system follows these main steps:
  **Decoding:** The recognized sequence is converted into a digital mathematical expression.
  **Output:** The final recognized mathematical expression is displayed as digital text.
 
+ ## 🧠 Model Architecture
+
+The project uses a deep learning pipeline for recognizing handwritten mathematical expressions.
+
+```text
+Input Image
+     ↓
+Image Preprocessing
+     ↓
+CNN Encoder
+     ↓
+Feature Extraction
+     ↓
+Sequence Model
+     ↓
+Decoder
+     ↓
+Recognized Mathematical Expression
+
 
 ## 🚀 Features
 
