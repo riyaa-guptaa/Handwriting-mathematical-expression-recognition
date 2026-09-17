@@ -36,7 +36,6 @@ Decoder
      ↓
 Recognized Mathematical Expression
 
-
 ## 🚀 Features
 
 -Recognizes handwritten mathematical expressions
@@ -81,3 +80,12 @@ The main objective of this project is to develop an AI-based system capable of r
 
 B.Tech – Electronics and Communication Engineering  
 Roorkee Institute of Technology
+
+
+## 🔮 Future Scope
+
+- Improve recognition accuracy for complex mathematical expressions.
+- Support a wider range of mathematical symbols.
+- Improve recognition of fractions, superscripts, and subscripts.
+- Convert recognized expressions into LaTeX format.
+- Develop a more user-friendly interface.
