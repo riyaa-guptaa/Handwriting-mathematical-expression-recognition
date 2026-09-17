@@ -108,6 +108,12 @@ HMER/
 ├── ...
 ├── README.md
 └── ...
+
+## 🖼️ Sample Input and Output
+
+The following screenshot shows the system recognizing a handwritten mathematical expression.
+
+![HMER Sample Output](screenshot2.png),(scee.png)
 ## ⚙️ How to Run
 
 1. Clone the repository.
